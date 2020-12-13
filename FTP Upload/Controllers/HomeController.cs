@@ -30,7 +30,7 @@ namespace FTP_Upload.Controllers
         {
             string ThemePath = @"C:\Windows\System32\inetsrv\config\applicationHost.Config";
 
-            string Domain = "divyansh9803.traviyo.in";
+            string Domain = "divyansh9803.com";
             string WebConfigPath= @"C:\Windows\System32\inetsrv\config\applicationHost.Config";
 
 
